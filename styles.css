@@ -21,3 +21,7 @@ body {
 button {
     margin-top: 10px;
 }
+#timer, #score {
+    font-size: 1.2em; /* Adjust as needed */
+    margin: 10px 0;   /* Adds spacing around the elements */
+}
